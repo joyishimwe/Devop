@@ -1,2 +1,2 @@
 # Devop
-repository that contain devops practice in Jira
+repository that contain devops practice in Jira.
